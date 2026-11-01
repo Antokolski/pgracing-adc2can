@@ -41,3 +41,11 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
+# KiCad - pliki tymczasowe i lokalne
+*.lck
+*.kicad_prl
+.history/
+*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
